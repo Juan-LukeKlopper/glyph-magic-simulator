@@ -1,0 +1,10 @@
+{
+  "name": "Glyph Magic Simulator",
+  "description": "An immersive gesture-based simulator of the Titan glyph magic system, featuring a deterministic point-cloud gesture recognizer, procedural visual effects, and an interactive combinatory spellbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "gesture-recognition",
+    "procedural-effects",
+    "web-audio-synthesis"
+  ]
+}
