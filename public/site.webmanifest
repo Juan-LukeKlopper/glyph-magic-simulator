@@ -1,0 +1,16 @@
+{
+  "name": "Titan's Glyph Grimoire",
+  "short_name": "Glyph Grimoire",
+  "description": "A gesture-based glyph magic simulator: trace the four primal glyphs and cast combinatory spells with procedural effects and synthesized sound.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#130B1B",
+  "theme_color": "#130B1B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

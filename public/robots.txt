@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Uncomment and set the absolute URL once a production domain is chosen.
+# Sitemap: https://example.com/sitemap.xml
