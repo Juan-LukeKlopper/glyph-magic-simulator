@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local-only tooling state (added by import-to-git.sh, reverted after import)
+.omp/
+.commandcode/
+assets/.aistudio/
+dist/
